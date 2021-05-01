@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - PickUp
+  - Wall
+  - Bin
+  - GreenBin
+  - BlackBin
+  - WhiteBin
   layers:
   - Default
   - TransparentFX
